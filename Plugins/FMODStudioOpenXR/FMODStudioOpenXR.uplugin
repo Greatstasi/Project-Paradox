@@ -1,0 +1,36 @@
+{
+    "FileVersion": 3,
+
+    "FriendlyName": "FMOD Studio OpenXR Integration",
+    "Version" : 1,
+    "VersionName" : "1.0.0",
+    "CreatedBy": "Firelight Technologies",
+    "CreatedByURL" : "http://fmod.com",
+    "Description" : "FMOD Studio with OpenXR Integration.",
+    "Category": "Audio",
+
+    "CanContainContent": true,
+    "Installed": true,
+    "EnabledByDefault": false,
+
+    "Modules": [
+      {
+        "Name": "FMODStudioOpenXR",
+        "Type": "Runtime",
+        "LoadingPhase": "PostConfigInit",
+        "WhitelistPlatforms": [
+          "Android"
+        ]
+      }
+    ],
+    "Plugins": [
+        {
+            "Name": "FMODStudio",
+            "Enabled": true
+        },
+        {
+            "Name": "OpenXR",
+            "Enabled": true
+        }
+    ]
+}
