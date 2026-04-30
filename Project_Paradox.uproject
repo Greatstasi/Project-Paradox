@@ -58,6 +58,14 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FMODStudioNiagara",
+			"Enabled": true
 		}
 	]
 }
