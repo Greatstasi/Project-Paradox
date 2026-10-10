@@ -66,6 +66,10 @@
 		{
 			"Name": "FMODStudioNiagara",
 			"Enabled": true
+		},
+		{
+			"Name": "DualSenseGamepadSupport",
+			"Enabled": true
 		}
 	]
 }
