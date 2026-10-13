@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c6d7f92d-a35e-472f-8bb5-8402aa1d8c00}">
+		<property name="assetPath">
+			<value>Planck - TRANS DOWN.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.3529374999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a11ee258-d1e7-48c6-a230-601841fc90d3}</destination>
+		</relationship>
+	</object>
+</objects>

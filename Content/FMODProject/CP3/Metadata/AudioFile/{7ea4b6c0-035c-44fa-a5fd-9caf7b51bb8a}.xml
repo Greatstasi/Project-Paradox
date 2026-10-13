@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{7ea4b6c0-035c-44fa-a5fd-9caf7b51bb8a}">
+		<property name="assetPath">
+			<value>Chroniton Particles 2.0 - Fight.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>220.71429166666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a11ee258-d1e7-48c6-a230-601841fc90d3}</destination>
+		</relationship>
+	</object>
+</objects>

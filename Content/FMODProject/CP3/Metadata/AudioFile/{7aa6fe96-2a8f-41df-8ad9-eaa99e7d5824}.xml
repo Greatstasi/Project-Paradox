@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{7aa6fe96-2a8f-41df-8ad9-eaa99e7d5824}">
+		<property name="assetPath">
+			<value>Trailer-01-0.3-175bpm-LONG.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>460.80000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a11ee258-d1e7-48c6-a230-601841fc90d3}</destination>
+		</relationship>
+	</object>
+</objects>
