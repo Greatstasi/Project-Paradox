@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{39b3112f-26c2-4357-8c67-c3612a4e490e}">
 		<property name="name">
-			<value>Mick Gordon - 11. BFG Division</value>
+			<value>dont click me</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -61,6 +61,7 @@
 	<object class="GroupTrack" id="{d190a7ad-ea2a-4938-9d28-fcf21d838ef2}">
 		<relationship name="modules">
 			<destination>{1094820b-c8ac-4a84-9e79-23dc5a7701dc}</destination>
+			<destination>{f55fb626-cf6d-4a34-a685-cd8f0b446344}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{d62d3c68-6221-42df-8f44-ca69246dbb7a}</destination>
@@ -69,6 +70,7 @@
 	<object class="Timeline" id="{eaa09f46-3fb7-4a84-af2f-ac4153265f00}">
 		<relationship name="modules">
 			<destination>{1094820b-c8ac-4a84-9e79-23dc5a7701dc}</destination>
+			<destination>{f55fb626-cf6d-4a34-a685-cd8f0b446344}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{96772115-178d-4b93-a6a4-2133a2045583}">
@@ -89,6 +91,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{ce1cf80f-9eb2-4fcf-bd31-b4d7bf90badd}" />
 	<object class="SingleSound" id="{1094820b-c8ac-4a84-9e79-23dc5a7701dc}">
+		<property name="start">
+			<value>1.5739682539682534</value>
+		</property>
 		<property name="length">
 			<value>426.54040816326528</value>
 		</property>
@@ -97,6 +102,14 @@
 		</property>
 		<relationship name="audioFile">
 			<destination>{1d87f9a6-0f77-4737-83a8-6a0b3994a726}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{f55fb626-cf6d-4a34-a685-cd8f0b446344}">
+		<property name="length">
+			<value>1.5739682539682534</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{3be17539-3837-4a36-912d-65ef0f4a3ac8}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{d62d3c68-6221-42df-8f44-ca69246dbb7a}">
