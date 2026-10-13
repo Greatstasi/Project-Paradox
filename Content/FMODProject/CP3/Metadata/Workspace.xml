@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{a0afdef4-4af2-4618-bd50-6e5b74b848a7}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../Documents/Unreal Projects/Project_Paradox/Content/FMOD</value>
+			<value>../../FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{3d08d10e-8cc2-4cff-a1f0-baebf73c93a5}</destination>
