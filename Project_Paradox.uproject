@@ -71,5 +71,8 @@
 			"Name": "DualSenseGamepadSupport",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
